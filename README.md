@@ -1,1 +1,2 @@
-# Ejercicio-Herencia-master
+# Ejercicio-Herencia
+ejercicio programación
